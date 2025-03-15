@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "wagmi": "latest",
+    "ethers": "latest",
+    "@rainbow-me/rainbowkit": "latest"
+  }
+}
