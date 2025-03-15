@@ -1,4 +1,4 @@
-mport '@/styles/globals.css';
+import '@/styles/globals.css';
 import { WagmiConfig, configureChains, createConfig } from 'wagmi';
 import { RainbowKitProvider, getDefaultWallets } from '@rainbow-me/rainbowkit';
 import { optimism, arbitrum, base } from 'wagmi/chains';
