@@ -1,4 +1,4 @@
-import WalletConnectButton from '@/components/WalletConnectButton';
+mport WalletConnectButton from '../components/WalletConnectButton';
 
 export default function Home() {
   return (
